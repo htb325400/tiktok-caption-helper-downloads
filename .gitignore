@@ -1,0 +1,7 @@
+.DS_Store
+.env
+*.net
+*.key
+*.pem
+node_modules/
+build/

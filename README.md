@@ -6,7 +6,7 @@
 
 ## 下载
 
-前往 [最新版本下载页](https://github.com/htb325400/tiktok-caption-helper-downloads/releases/latest)，下载 `tiktok-caption-helper-0.9.24.zip`，然后按 [安装说明](INSTALL.md) 操作。
+前往 [v0.9.24 下载页](https://github.com/htb325400/tiktok-caption-helper-downloads/releases/tag/v0.9.24)，下载 `tiktok-caption-helper-0.9.24.zip`，然后按 [安装说明](INSTALL.md) 操作。
 
 当前版本：**0.9.24 · 实验版**。不是 Chrome 网上应用店安装包，也不支持自动更新。
 
